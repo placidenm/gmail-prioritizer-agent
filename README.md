@@ -136,3 +136,6 @@ This project demonstrates:
 - Add calendar-aware urgency detection
 - Add attachment summarization
 - Add confidence score thresholding
+
+## First Update
+- Implements label-based filtering to avoid reprocessing previously classified emails and reduce API usage.

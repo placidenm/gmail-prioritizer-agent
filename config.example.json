@@ -1,7 +1,7 @@
 {
   "my_email": "your_email@gmail.com",
   "max_results": 25,
-  "query": "in:inbox newer_than:14d",
+  "query": "in:inbox newer_than:14d -label:AI",
   "labels": {
     "urgent": "AI/Urgent",
     "action_needed": "AI/Action Needed",

@@ -1,0 +1,12 @@
+{
+  "my_email": "your_email@gmail.com",
+  "max_results": 25,
+  "query": "in:inbox newer_than:14d",
+  "labels": {
+    "urgent": "AI/Urgent",
+    "action_needed": "AI/Action Needed",
+    "fyi": "AI/FYI",
+    "newsletter": "AI/Newsletter",
+    "receipt": "AI/Receipts"
+  }
+}

@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+credentials.json
+token.json
+config.json
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
